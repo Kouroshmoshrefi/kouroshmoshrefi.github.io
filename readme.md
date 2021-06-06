@@ -1,0 +1,1 @@
+Colorshift is my first small vanilla JS app witch generates random color hex codes so you can discover them!
